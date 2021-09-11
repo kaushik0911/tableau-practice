@@ -16,4 +16,4 @@ Here I have used the dataset provide in the tableau documents.
 
 Here I have used the dataset provide in the tableau documents.
 
-[Dashboard Link](https://public.tableau.com/app/profile/kaushiknshamantha/viz/SalesDashboard_16312517357750/Story1?publish=yes)
+[Dashboard Link](https://public.tableau.com/app/profile/kaushiknshamantha/viz/SalesDashboard_16312517357750/SalesStoryBoard?publish=yes)
