@@ -11,3 +11,9 @@ I followed this tutorial in [freeCodeCamp.org](https://www.youtube.com/watch?v=T
 Here I have used the dataset provide in the tableau documents.
 
 [Dashboard Link](https://public.tableau.com/app/profile/kaushiknshamantha/viz/SalesDashboard_16312517357750/Dashboard1?publish=yes)
+
+## Sales Storyboard
+
+Here I have used the dataset provide in the tableau documents.
+
+[Dashboard Link](https://public.tableau.com/app/profile/kaushiknshamantha/viz/SalesDashboard_16312517357750/Story1?publish=yes)
