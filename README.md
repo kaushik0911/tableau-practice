@@ -8,8 +8,8 @@ I followed this tutorial in [freeCodeCamp.org](https://www.youtube.com/watch?v=T
  
 ## Sales Dashboard
 
-Here I have used the dataset provide in the tableau documents.
-Shows a filter for sales / profit
+Here I have used the dataset provide in the tableau documents. <br>
+Shows a filter for sales / profit.
 
 [Dashboard Link](https://public.tableau.com/app/profile/kaushiknshamantha/viz/SalesDashboard_16312517357750/Dashboard1?publish=yes)
 
